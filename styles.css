@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://images3.alphacoders.com/835/thumb-1920-83519.jpg);
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    background-size: cover;
+            background-position: 50% 50%;
+            background-attachment: fixed;
+
+
+}
+
+ol{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+hr{
+    border-width: 3px;
+    border-color: rgb(21, 21, 21);
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+h2{
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+h3{
+    background-color: rgba(0, 0, 0, 0.500);
+}
